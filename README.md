@@ -82,7 +82,6 @@ Here's why:
 * Firebase is used as a database for backend. 
 
 
-To run the project `npm run android`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -93,8 +92,9 @@ To run the project `npm run android`
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 
-* [![React][React.js]][React-url]
-* [![Firebase][Firebase]][Firebase-url]
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -109,10 +109,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To run this project on your system.
 * npm
   ```sh
-  npm install npm@latest -g
+  npm run android
   ```
 
 ### Installation

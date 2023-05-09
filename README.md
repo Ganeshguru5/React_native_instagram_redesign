@@ -30,7 +30,7 @@
   <h3 align="center">Instagram redesign in react native</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+   
     <br />
     <a href="https://meganeshguru.web.app" type='_blank'><strong>View my portfolio »</strong></a>
     <br />

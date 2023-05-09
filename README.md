@@ -31,7 +31,6 @@
 
   <p align="center">
    
-    <br />
     <a href="https://meganeshguru.web.app" type='_blank'><strong>View my portfolio »</strong></a>
     <br />
     <br />

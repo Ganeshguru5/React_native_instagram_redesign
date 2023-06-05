@@ -36,5 +36,8 @@ To run this project on your system.
   <img src='https://github.com/Ganeshguru5/React_native_instagram_redesign/blob/master/Screenshots/chatscreem.jpg' width=250/>
   <img src='https://github.com/Ganeshguru5/React_native_instagram_redesign/blob/master/Screenshots/notifications.jpg' width=250/>
   <img src='https://github.com/Ganeshguru5/React_native_instagram_redesign/blob/master/Screenshots/reels.jpg' width=250/>
+  <img src='https://github.com/Ganeshguru5/React_native_instagram_redesign/blob/master/Screenshots/search.jpg' width=250/>
+  <img src='https://github.com/Ganeshguru5/React_native_instagram_redesign/blob/master/Screenshots/profilesre.jpg' width=250/>
+
 </div>
 

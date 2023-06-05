@@ -30,4 +30,11 @@ To run this project on your system.
 
 * User interface is updated to my own ideation
 * Username:naveenrenter@gmail.com Password : 123456 (Use this login for better interaction as owner or you can create yours)
+* Screen shots
+<div style={{display:'flex',flexDirection:'row'}}>
+  <img src='https://github.com/Ganeshguru5/React_native_instagram_redesign/blob/master/Screenshots/homescreen.jpg' width=250/>
+  <img src='https://github.com/Ganeshguru5/React_native_instagram_redesign/blob/master/Screenshots/chatscreem.jpg' width=250/>
+  <img src='https://github.com/Ganeshguru5/React_native_instagram_redesign/blob/master/Screenshots/notifications.jpg' width=250/>
+  <img src='https://github.com/Ganeshguru5/React_native_instagram_redesign/blob/master/Screenshots/reels.jpg' width=250/>
+</div>
 
